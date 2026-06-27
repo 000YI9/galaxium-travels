@@ -23,7 +23,7 @@ export const Header = () => {
               <Rocket className="text-cosmic-purple" size={32} />
             </motion.div>
             <span className="text-2xl font-bold bg-cosmic-gradient bg-clip-text text-transparent">
-              Galaxium Travel Agency
+              Galaxium Travel Agency one
             </span>
           </Link>
 
